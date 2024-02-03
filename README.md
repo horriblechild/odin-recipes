@@ -1,2 +1,1 @@
-# odin-recipes
-Recxipe ite from odinProject
+Recipe site from the OdinProject lesson: Recipes.
